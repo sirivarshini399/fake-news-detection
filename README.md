@@ -45,7 +45,7 @@ Flask app takes user input and predicts:
 ✅ Real News
 ▶️ How to Run the Project
 1. Clone the repository
-git clone https://github.com/your-username/fake-news-detection.git
+git clone https://github.com/sirivarshini399/fake-news-detection.git
 cd fake-news-detection
 2. Create virtual environment
 python -m venv venv
